@@ -4,6 +4,35 @@
 
 Starter examples for building LLM apps with Streamlit.
 
+## TAPIWA CHAMBOKO
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tapiwachamb.github.io/tapiwachamboko.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tapiwa-chamboko-327270208/)
+[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=githubr&logoColor=white)](https://github.com/tapiwachamb)
+
+
+## 🚀 About Me
+I'm a full stack developer experienced in deploying artificial intelligence powered apps
+
+
+## Authors
+
+- [@Tapiwa chamboko](https://github.com/tapiwachamb)
+
+
+## Acknowledgements
+
+ - [streamlit](https://streamlit.io/)
+ 
+
+## Demo
+
+**Live demo**
+
+[Click here for Live demo](https://llm-chatbot-app.streamlit.app/)
+
+## Installation
+
+
 ## Overview of the App
 
 This app showcases a growing collection of LLM minimum working examples.
