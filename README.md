@@ -1,4 +1,4 @@
-# 🎈 Chatbot LLM Examples App
+# Chatbot LLM Examples App
 
 
 
